@@ -1,9 +1,11 @@
 # odin-landing-page
 In partial fulfillment of TheOdinProject's Project called "Landing Page".
 
-This is a very rough draft of the landing page. 
+This is the draft of the landing page. 
 
-The heading are footer are designed as intended. However, the contents section is yet to be polished.
+Everything are designed as intended. 
+
+The naming of div classes can be improved and the number of class selectors used can be minimized.
 
 Photo credits:
 https://unsplash.com/photos/cWOzOnSoh6Q
